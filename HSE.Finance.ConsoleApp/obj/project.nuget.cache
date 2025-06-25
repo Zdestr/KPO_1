@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6+sIo+fBrK8=",
+  "success": true,
+  "projectFilePath": "/Users/e-tugov/Desktop/kpo_1/HSE.Finance.Solution/HSE.Finance.ConsoleApp/HSE.Finance.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/e-tugov/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/e-tugov/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
