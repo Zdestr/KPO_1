@@ -1,0 +1,15 @@
+/Users/e-tugov/Desktop/kpo_1/HSE.Finance.Solution/HSE.Finance.Services/bin/Debug/net9.0/HSE.Finance.Services.deps.json
+/Users/e-tugov/Desktop/kpo_1/HSE.Finance.Solution/HSE.Finance.Services/bin/Debug/net9.0/HSE.Finance.Services.dll
+/Users/e-tugov/Desktop/kpo_1/HSE.Finance.Solution/HSE.Finance.Services/bin/Debug/net9.0/HSE.Finance.Services.pdb
+/Users/e-tugov/Desktop/kpo_1/HSE.Finance.Solution/HSE.Finance.Services/bin/Debug/net9.0/HSE.Finance.Core.dll
+/Users/e-tugov/Desktop/kpo_1/HSE.Finance.Solution/HSE.Finance.Services/bin/Debug/net9.0/HSE.Finance.Core.pdb
+/Users/e-tugov/Desktop/kpo_1/HSE.Finance.Solution/HSE.Finance.Services/obj/Debug/net9.0/HSE.Finance.Services.csproj.AssemblyReference.cache
+/Users/e-tugov/Desktop/kpo_1/HSE.Finance.Solution/HSE.Finance.Services/obj/Debug/net9.0/HSE.Finance.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/e-tugov/Desktop/kpo_1/HSE.Finance.Solution/HSE.Finance.Services/obj/Debug/net9.0/HSE.Finance.Services.AssemblyInfoInputs.cache
+/Users/e-tugov/Desktop/kpo_1/HSE.Finance.Solution/HSE.Finance.Services/obj/Debug/net9.0/HSE.Finance.Services.AssemblyInfo.cs
+/Users/e-tugov/Desktop/kpo_1/HSE.Finance.Solution/HSE.Finance.Services/obj/Debug/net9.0/HSE.Finance.Services.csproj.CoreCompileInputs.cache
+/Users/e-tugov/Desktop/kpo_1/HSE.Finance.Solution/HSE.Finance.Services/obj/Debug/net9.0/HSE.Fina.DEA14BB7.Up2Date
+/Users/e-tugov/Desktop/kpo_1/HSE.Finance.Solution/HSE.Finance.Services/obj/Debug/net9.0/HSE.Finance.Services.dll
+/Users/e-tugov/Desktop/kpo_1/HSE.Finance.Solution/HSE.Finance.Services/obj/Debug/net9.0/refint/HSE.Finance.Services.dll
+/Users/e-tugov/Desktop/kpo_1/HSE.Finance.Solution/HSE.Finance.Services/obj/Debug/net9.0/HSE.Finance.Services.pdb
+/Users/e-tugov/Desktop/kpo_1/HSE.Finance.Solution/HSE.Finance.Services/obj/Debug/net9.0/ref/HSE.Finance.Services.dll
